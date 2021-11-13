@@ -1,3 +1,3 @@
 echo COPY FILES
-xcopy C:\Users\evojvoda\Desktop\pelda\*.txt C:\Users\evojvoda\Desktop\ide /S /F /-Y /I
+xcopy C:\Users\user\folder\*.txt C:\Users\user\destination /S /F /-Y /I
 echo DONE!
